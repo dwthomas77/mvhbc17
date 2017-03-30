@@ -92,3 +92,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Databases
+*.sqlite3
+
+.idea/
+
+# Django Stuff
+manage.py
