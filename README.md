@@ -1,16 +1,16 @@
 # mvhbc17
 
-built on Django https://www.djangoproject.com/
+built on [Django](https://www.djangoproject.com/)
 
-requires Python 2.7 or Python 3https://www.python.org/
+requires [Python 2.7 or Python 3](https://www.python.org/)
 
-requires pip https://pip.pypa.io/en/stable/
+requires [pip](https://pip.pypa.io/en/stable/)
 
 ## Dev Environment Installation Instructions
 
 ### Set up virtual env for isolated development Environment
 
-Virtual Env http://python-guide-pt-br.readthedocs.io/en/latest/dev/virtualenvs/
+[Virtual Env](http://python-guide-pt-br.readthedocs.io/en/latest/dev/virtualenvs/)
 
 ```
 $ pip install virtualenv
@@ -23,9 +23,8 @@ Once installed you can enter your virtual environment
 ```
 $ cd django
 $ source bin/activate
-```
-
 (django) MacBook-Pro-3:dev_folder [user]$
+```
 
 ### Install Django
 
