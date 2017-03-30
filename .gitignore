@@ -97,6 +97,3 @@ ENV/
 *.sqlite3
 
 .idea/
-
-# Django Stuff
-manage.py
