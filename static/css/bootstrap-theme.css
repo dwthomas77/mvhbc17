@@ -1,0 +1,84 @@
+/*-- Breakpoint Sizes --*/
+/*---- COLORS ------*/
+/*                  */
+/*---- Base   ------*/
+/*---- Secondary ---*/
+/*---- Text --------*/
+/*---- Padding -----*/
+/*---- MODULES -----*/
+/*                  */
+/*---- Home --------*/
+.home-info {
+  width: 100%;
+  padding: 20px;
+  background-color: #764723;
+  color: #F7EDBF; }
+
+/*---- Photos ------*/
+@media screen and (min-width: 1200px) {
+  .photos {
+    padding: 20px;
+    background-color: #764723; } }
+
+/*                  */
+/*---- Calendar ----*/
+.calendar {
+  padding: 0px 20px 20px 20px;
+  background-color: #764723; }
+
+/*---- LAYOUT ------*/
+/*                  */
+footer {
+  background-color: #58351A;
+  color: #F1EED9; }
+  @media screen and (max-width: 520px) {
+    footer {
+      font-size: 10px; }
+      footer a {
+        color: #F1EED9; }
+        footer a:hover {
+          color: #F1EED9;
+          text-decoration: underline; } }
+
+.sponsors a img {
+  margin-bottom: 20px; }
+.sponsors p {
+  text-align: center; }
+
+ul {
+  list-style: none; }
+
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  background-color: #F1EED9;
+  color: #382313; }
+
+p {
+  padding: 20px; }
+  @media screen and (max-width: 520px) {
+    p {
+      font-size: 10px; } }
+
+iframe {
+  width: 100%; }
+
+header {
+  background-color: white; }
+  header img {
+    margin: 0px auto; }
+    @media screen and (max-width: 520px) {
+      header img {
+        max-height: 100px; } }
+
+.navbar-default {
+  margin-bottom: 20px;
+  background-color: #58351A; }
+  .navbar-default a {
+    color: #F1EED9; }
+
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+  background-color: #58351A; }
+
+.nav > li > a:hover, .nav > li > a:focus {
+  text-decoration: none;
+  background-color: #58351A; }
